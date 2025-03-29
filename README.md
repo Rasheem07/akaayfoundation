@@ -3,7 +3,7 @@
 A modern, responsive, and minimalist landing page for **Akaay Foundation**, designed to connect high-growth startups with highly skilled interns. Built with **Next.js 14**, **Tailwind CSS**, **Framer Motion**, **Lucide Icons**, and **react-hook-form + Zod** for form validation.
 
 ## 🔗 Live Demo
-[👉 Click here to view the live site](https://.vercel.app)
+[👉 Click here to view the live site](https://akaayfoundation.vercel.app/)
 
 ---
 
@@ -35,8 +35,8 @@ A modern, responsive, and minimalist landing page for **Akaay Foundation**, desi
 
 ```bash
 # 1. Clone this repo
-$ git clone https://github.com/yourusername/akaay-landing.git
-$ cd akaay-landing
+$ git clone https://github.com/rasheem07/akaayfoundation.git
+$ cd akaayfoundation
 
 # 2. Install dependencies
 $ npm install
